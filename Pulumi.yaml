@@ -1,0 +1,3 @@
+name: ghes-pulumi
+runtime: nodejs
+description: Deploying GitHub Enterprise Server with Pulumi
